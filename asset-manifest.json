@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bjmpposimswebapp/static/css/main.09975cf5.css",
+    "main.js": "/bjmpposimswebapp/static/js/main.23078922.js",
+    "static/js/787.cda612ba.chunk.js": "/bjmpposimswebapp/static/js/787.cda612ba.chunk.js",
+    "static/media/bjmp-logo.png": "/bjmpposimswebapp/static/media/bjmp-logo.e52dee1b786a653f4e2c.png",
+    "index.html": "/bjmpposimswebapp/index.html",
+    "main.09975cf5.css.map": "/bjmpposimswebapp/static/css/main.09975cf5.css.map",
+    "main.23078922.js.map": "/bjmpposimswebapp/static/js/main.23078922.js.map",
+    "787.cda612ba.chunk.js.map": "/bjmpposimswebapp/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09975cf5.css",
+    "static/js/main.23078922.js"
+  ]
+}

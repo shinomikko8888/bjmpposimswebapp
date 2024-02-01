@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.82f7f091.css",
-    "main.js": "/static/js/main.a2f4e58b.js",
+    "main.js": "/static/js/main.b95f4ffd.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/bjmp-logo.png": "/static/media/bjmp-logo.e52dee1b786a653f4e2c.png",
     "index.html": "/index.html",
     "main.82f7f091.css.map": "/static/css/main.82f7f091.css.map",
-    "main.a2f4e58b.js.map": "/static/js/main.a2f4e58b.js.map",
+    "main.b95f4ffd.js.map": "/static/js/main.b95f4ffd.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f7f091.css",
-    "static/js/main.a2f4e58b.js"
+    "static/js/main.b95f4ffd.js"
   ]
 }
